@@ -1,8 +1,8 @@
 ## California District Housing Price Prediction Model
 
-This aim of this project is to predict the price of houses in Calfornia districts using data sourced from the Stalib repository. This dataset is based on the data from the 1990 California Census.
+This project aims to predict the price of houses in Calfornia districts using data sourced from the Stalib repository. This dataset is based on the data from the 1990 California Census.
 
-The algorithm being used in a general multi regression algorithm. The machine learning method will be a supervised ML system since it will working with labelled dataset. The ML system will also learn through offline Batch learning.
+The algorithm is being used in a general multi-regression algorithm. The machine learning method will be a supervised ML system since it will work with a labeled dataset. The ML system will also learn through offline Batch learning.
 
 ## Source
 __________________________________________________________________________________________________________
